@@ -1,0 +1,23 @@
+AA - Alder Amphitheater,CT - Construction Trades,300
+AA - Alder Amphitheater,ECDL - Eccles Early Childhood Lab School,700
+AA - Alder Amphitheater,LIB - Markosian Library,100
+AA - Alder Amphitheater,SI - Science & Industry Building,200
+AA - Alder Amphitheater,STC - Student Center,72
+AAB - Academic & Administration Building,SI - Science & Industry Building,400
+AAB - Academic & Administration Building,STC - Student Center,120
+AAB - Academic & Administration Building,TAB - Technical Arts Building,150
+AAB - Academic & Administration Building,AA - Alder Amphitheater,70
+CT - Construction Trades,ECDL - Eccles Early Childhood Lab School,450
+CT - Construction Trades,STC - Student Center,350
+CT - Construction Trades,TAB - Technical Arts Building,100
+CT - Construction Trades,TB - Technology Building,300
+ECDL - Eccles Early Childhood Lab School,TB - Technology Building,600
+GFSB - Gundersen Facilities Services Building,LAC - Lifetime Activities Center,700
+GMBB - Gail Miller Business Building,LIB - Markosian Library,300
+GMBB - Gail Miller Business Building,TB - Technology Building,150
+LAC - Lifetime Activities Center,LIB - Markosian Library,160
+LAC - Lifetime Activities Center,SI - Science & Industry Building,130
+LIB - Markosian Library,SI - Science & Industry Building,70
+LIB - Markosian Library,STC - Student Center,200
+STC - Student Center,TAB - Technical Arts Building,70
+STC - Student Center,TB - Technology Building,150
